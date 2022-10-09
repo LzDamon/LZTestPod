@@ -12,5 +12,8 @@
 - (void)walk {
     NSLog(@"%s", __func__);
 }
+- (void)eat {
+    NSLog(@"%s", __func__);
+}
 
 @end
