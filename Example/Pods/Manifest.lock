@@ -1,0 +1,16 @@
+PODS:
+  - LZTestPod (0.1.0)
+
+DEPENDENCIES:
+  - LZTestPod (from `../`)
+
+EXTERNAL SOURCES:
+  LZTestPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LZTestPod: 1a022ad2284a32ec46b247340fbfb61d79ca9b8e
+
+PODFILE CHECKSUM: 652c5b5d32bcd37e4f1b4f55aed6423badae96d6
+
+COCOAPODS: 1.10.1
